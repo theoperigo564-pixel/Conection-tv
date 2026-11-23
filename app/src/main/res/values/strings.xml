@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conection TV</string>
+    <string name="tv_starting">Conection TV\nIniciando receptor...</string>
+    <string name="phone_instructions">Conecte o celular e a TV à mesma rede Wi-Fi. Selecione a TV para espelhar a tela.</string>
+    <string name="find_tvs">Buscar TVs</string>
+    <string name="searching_tvs">Procurando TVs na rede...</string>
+    <string name="stop_mirroring">Parar espelhamento</string>
+    <string name="mirroring_stopped">Espelhamento interrompido.</string>
+    <string name="scan_error">Não foi possível buscar TVs (erro %1$d).</string>
+    <string name="resolve_error">Falha ao localizar %1$s.</string>
+    <string name="no_tvs_found">Nenhuma TV encontrada. Abra Conection TV na televisão e tente novamente.</string>
+    <string name="select_tv">Selecione uma TV:</string>
+    <string name="capture_cancelled">Captura de tela cancelada.</string>
+    <string name="tv_address_error">Não foi possível obter o endereço da TV. Busque novamente.</string>
+    <string name="connecting_tv">Conectando a %1$s...</string>
+</resources>
